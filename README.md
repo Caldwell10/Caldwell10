@@ -2,17 +2,17 @@
 <h3 align="center">A prospective Machine Learning Engineer and an upcoming researcher on various facets on Data Science and Artificial Intelligence.</h3>
 
 
-- 🔭 I’m currently working on **EcoSync - an AI-powered environmental awareness hub** , which is currently in the ideation phase.
+- I’m currently working on **EcoSync - an AI-powered environmental awareness hub** , which is currently in the ideation phase.
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing** and **Computer Vision.**
+- I’m currently learning **Deep Learning, Natural Language Processing** and **Computer Vision.**
 
-- 👨‍💻 All of my projects are available at: [www.caldwellwachira.com](www.caldwellwachira.com)
+- All of my projects are available at: [www.caldwellwachira.com](www.caldwellwachira.com)
 
-- 📝 I regularly write articles on: [blog.caldwellwachira.com](blog.caldwellwachira.com)
+- I regularly write articles on: [blog.caldwellwachira.com](blog.caldwellwachira.com)
 
-- 📫 How to reach me: **caldwell@gmail.com**
+- How to reach me: **caldwell@gmail.com**
 
-- 📄 Know about my experiences: [https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf](https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf)
+- Know about my experiences: [https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf](https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
