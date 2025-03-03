@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **EcoSync - an AI-powered environmental awareness hub** , which is currently in the ideation phase.
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing Computer Vision**
+- 🌱 I’m currently learning **Deep Learning, Natural Language Processing** and **Computer Vision.**
 
 - 👨‍💻 All of my projects are available at: [www.caldwellwachira.com](www.caldwellwachira.com)
 
