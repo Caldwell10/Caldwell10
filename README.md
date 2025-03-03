@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caldwell Wachira</h1>
+<h1 align="center">Hi I'm Caldwell Wachira</h1>
 <h3 align="center">A prospective Machine Learning Engineer and an upcoming researcher on various facets on Data Science and Artificial Intelligence.</h3>
 
 
