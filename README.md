@@ -10,7 +10,7 @@
 
 - I regularly write articles on: [blog.caldwellwachira.com](blog.caldwellwachira.com)
 
-- How to reach me: **caldwell@gmail.com**
+- How to reach me: caldwell@gmail.com
 
 - Know about my experiences: [https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf](https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf)
 
