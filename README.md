@@ -12,7 +12,6 @@
 
 - How to reach me: caldwell@gmail.com
 
-- Know about my experiences: [https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf](https://blog.caldwellwachira.com/files/Caldwell_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
