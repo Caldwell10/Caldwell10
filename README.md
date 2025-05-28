@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Caldwell Wachira</h1>
-<h3 align="center">A prospective Machine Learning Engineer and an upcoming researcher on various facets on Data Science and Artificial Intelligence.</h3>
+<h3 align="center">A prospective Machine Learning Engineer/ Software Engineer and an upcoming researcher on various facets on Data Science and Artificial Intelligence.</h3>
 
 
 - I’m currently working on **EcoSync - an AI-powered environmental awareness hub** , which is currently in the ideation phase.
