@@ -2,7 +2,7 @@
 <h3 align="center">A prospective Machine Learning Engineer/ Software Engineer and an upcoming researcher on various facets on Data Science and Artificial Intelligence.</h3>
 
 
-- I’m currently working on **EcoSync - an AI-powered environmental awareness hub** , which is currently in the ideation phase.
+- I’m currently working on a **Gait-Based Deep Learning project for concealed firearm detection** , which is currently in the in the data annotation/preprocessing phase.
 
 - I’m currently learning **Deep Learning, Natural Language Processing** and **Computer Vision.**
 
