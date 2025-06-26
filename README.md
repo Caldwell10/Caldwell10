@@ -8,8 +8,6 @@
 
 - All of my projects are available at: [www.caldwellwachira.com](www.caldwellwachira.com)
 
-- I regularly write articles on: [blog.caldwellwachira.com](blog.caldwellwachira.com)
-
 - How to reach me: caldwellkibe@gmail.com
 
 
