@@ -10,7 +10,7 @@
 🌱 **Currently learning**  
 - Advanced Deep Learning & Computer Vision  
 - Distributed Systems & Cloud Infrastructure  
-- Java (Spring Framework)  
+- Java (Spring Framework) for backend development  
 
 📂 **Projects**  
 - [Serverless Image Processing Platform](your-link)  
