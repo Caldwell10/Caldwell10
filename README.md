@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caldwell Wachira</h1>
-<h3 align="center">Aspiring Software Engineer & Machine Learning Engineer | Passionate about Cloud Computing, Backend Systems, and AI-driven applications</h3>
+<h3 align="center">Aspiring Software Engineer | Passionate about Cloud Computing and building Backend Systems</h3>
 
 ---
 
