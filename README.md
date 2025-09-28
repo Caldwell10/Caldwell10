@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Caldwell Wachira</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate about Cloud Computing and building Backend Systems</h3>
+<h3 align="center">Aspiring Software Engineer | Passionate about building end-to-end backend systems</h3>
 
 ---
 
 🔭 **Currently working on**  
 - Real-time computer vision pipelines at Strathmore Makerspace Lab  
-- Scalable cloud solutions (AWS Lambda, S3, DynamoDB)  
+- Building knowledge on building effective backend systems using Python
 
 🌱 **Currently learning**  
 - Advanced Deep Learning & Computer Vision  
 - Distributed Systems & Cloud Infrastructure  
-- Java (Spring Framework) for backend development  
+- Building sclable, end-to-end backend systems using Python
 
 📂 **Projects**  
 - [Serverless Image Processing Platform](your-link)  
