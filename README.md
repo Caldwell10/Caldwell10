@@ -4,7 +4,7 @@
 ---
 
 🔭 **Currently working on**  
-- Real-time computer vision pipelines at Strathmore Makerspace Lab  
+- Learning nuances in Python
 - Building knowledge on building effective backend systems using Python
 
 🌱 **Currently learning**  
