@@ -6,18 +6,9 @@
 🔭 **Currently working on**  
 - Learning nuances in Python
 - Building knowledge on building effective backend systems using Python
+ 
 
-🌱 **Currently learning**  
-- Advanced Deep Learning & Computer Vision  
-- Distributed Systems & Cloud Infrastructure  
-- Building sclable, end-to-end backend systems using Python
-
-📂 **Projects**  
-- [Serverless Image Processing Platform](your-link)  
-- [Distributed Load Balancer](your-link)  
-- More at: [www.caldwellwachira.com](https://www.caldwellwachira.com)  
-
-📫 **Reach me**: wachirakibe6@gmail.com | [LinkedIn](https://linkedin.com/in/caldwell-wachira)  
+📫 **Contacts**: wachirakibe6@gmail.com | [LinkedIn](https://linkedin.com/in/caldwell-wachira)  
 
 ---
 
