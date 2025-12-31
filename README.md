@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caldwell Wachira</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate about building end-to-end backend systems</h3>
+<h3 align="center"> Software Engineer | Passionate about backend systems</h3>
 
 ---
 
